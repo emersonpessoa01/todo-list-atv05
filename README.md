@@ -1,6 +1,7 @@
 <code><h4>_Este projeto é uma aplicação de lista de tarefas (Todo List) desenvolvida como uma atividade da Escola de Programação +PraTI: Trilha FullStack 2.0. A aplicação permite que os usuários adicionem, editem, removam e marquem tarefas como concluídas._</h4></code>
 
-<h1 align="center"> Todo App</h1>
+
+## Preview do App: [Todo App](https://todo-list-atv05.vercel.app/)
 
 Um aplicativo de gerenciamento de tarefas simples que permite aos usuários adicionar, editar, excluir e marcar tarefas como concluídas. Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript, utilizando armazenamento local para persistir os dados.
 
