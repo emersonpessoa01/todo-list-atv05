@@ -1,4 +1,4 @@
-Este projeto é uma aplicação de lista de tarefas (Todo List) desenvolvida como uma atividade da Escola de Treinamento FullStack MaisPraTI. A aplicação permite que os usuários adicionem, editem, removam e marquem tarefas como concluídas.
+<code><h4>_Este projeto é uma aplicação de lista de tarefas (Todo List) desenvolvida como uma atividade da Escola de Programação Trilha FullStack 2.0 do MaisPraTI. A aplicação permite que os usuários adicionem, editem, removam e marquem tarefas como concluídas._</h4></code>
 
 <h1 align="center"> Todo App</h1>
 
