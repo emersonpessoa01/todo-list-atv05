@@ -23,7 +23,7 @@ Para executar o projeto localmente, siga os seguintes passos:
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/todo-app.git
-   cd todo-app
+   cd todo-list-atv05
 
 2. **Abra o arquivo HTML**:
 
